@@ -21,3 +21,9 @@ p.intro{
 img.intro{
   width: 300px;
 }
+
+.highlight {
+  font-size: 36px;
+  background-color: yellow;
+  border: 2px solid lightgreen;
+}
